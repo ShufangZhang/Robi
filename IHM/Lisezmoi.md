@@ -1,10 +1,12 @@
-  # **Projet ROBI_server_client**  
+
+ # **Projet ROBI_server_client**  
 
 Ce document est rédigé en français et présente les deux projets liés ROBI_server_client : Serveur_robi et client_robi.
 
 > ## **Auteurs**
 >>  --Shufang Zhang  
---Aymane
+   --Fouad Anas  
+
 
 >>--Date dernier modifie: 07-04-2023  
 --Université Bretagne Occidentale projet L3
@@ -32,7 +34,7 @@ Ce package contient les **classes** suivantes :
 -- Plus précisément, elle récupère l'objet cible à partir de l'environnement donné, puis appelle la méthode correspondante de cet objet pour exécuter l'opération.  
 
  **Les classes suivantes sont également présentes :**  
-  * **AddChild :** ajoute un enfant à une Reference
+  
 * **AddElement :** ajoute un élément a l’environnement
 * **DelElement :** supprime un élément de environnement
 * **NewElement :** crée une instance d’élément
@@ -74,4 +76,7 @@ Le projet Serveur_robi est constitué de **package**  Client.
  * **Object Script :**  
   L'exercice 6 mène à la création d'une Référence "script" qui apparemment permet l’exécution d'instructions.
   * **repondu de serveur :**   
-  Le serveur réponds mais sans graphic affiché.
+  -- Le serveur ne peux pas répondre au client  
+-- Echange entre Robi-client et Robi-serveur  
+-- Affichage de l'environnement et des SNode  
+-- Renvoi de commandes graphiques à la place d'une image
