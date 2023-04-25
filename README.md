@@ -4,10 +4,8 @@ Ce document est rédigé en français et présente les deux projets liés ROBI_s
 
 > ## **Auteurs**
 >>  --Shufang Zhang  
---Ait charki Aymen   
 --Fouad Anas  
--- Zeouine Taha
--- Tahri Mohamed
+
 
 >>--Date dernier modifie: 07-04-2023  
 --Université Bretagne Occidentale projet L3
